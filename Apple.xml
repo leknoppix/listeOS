@@ -1,0 +1,495 @@
+<apple>
+	<computer>
+		<gamme>
+			<serie>7</serie>
+			<branche>
+				<version>Mac OS 7.5.1</version>
+				<architecture>24/32-bit 68k</architecture>
+				<processeur>PPC</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 7.5.2</version>
+				<architecture>24/32-bit 68k</architecture>
+				<processeur>PPC</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 7.5.3</version>
+				<architecture>24/32-bit 68k</architecture>
+				<processeur>PPC</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 7.5.3 Revision 2</version>
+				<architecture>24/32-bit 68</architecture>
+				<processeur>PPC</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 7.5.3 Revision 2.1</version>
+				<architecture>24/32-bit 68k</architecture>
+				<processeur>PPC</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 7.5.3 Revision 2.2</version>
+				<architecture>24/32-bit 68k</architecture>
+				<processeur>PPC</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 7.5.4 -- never offically released from Apple</version>
+			</branche>
+			<branche>
+				<version>Mac OS 7.5.5</version>
+				<architecture>24/32-bit 68k</architecture>
+				<processeur>PPC</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 7.6</version>
+				<architecture>32-bit 68k</architecture>
+				<processeur>PPC</processeur>
+				 "Harmony"</branche>
+			<branche>
+				<version>Mac OS 7.6.1</version>
+				<architecture>32-bit 68k</architecture>
+				<processeur>PPC</processeur>
+			</branche>
+		</gamme>
+		<gamme>
+			<serie>8</serie>
+			<branche>
+				<version>Mac OS 8.0</version>
+				<architecture>32-bit 68k</architecture>
+				<processeur>PPC</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 8.1</version>
+				<architecture>32-bit 68k</architecture>
+				<processeur>PPC</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 8.5</version>
+				<processeur>PPC</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 8.5.1</version>
+				<processeur>PPC</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 8.6</version>
+				<processeur>PPC</processeur>
+			</branche>
+		</gamme>
+		<gamme>
+			<serie>9</serie>
+			<branche>
+				<version>Mac OS 9.0.0</version>
+				<processeur>(PPC All)</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 9.0.2</version>
+				<processeur>(PPC All)</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 9.0.3</version>
+				<processeur>(PPC All)</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 9.0.4</version>
+				<processeur>(PPC All)</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 9.1</version>
+				<processeur>(PPC with MMU)</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 9.2.0</version>
+				<processeur>(PPC G3+)</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 9.2.1</version>
+				<processeur>(PPC G3+)</processeur>
+			</branche>
+			<branche>
+				<version>Mac OS 9.2.2</version>
+				<processeur>(PPC G3+)</processeur>
+			</branche>
+		</gamme>
+		<gamme>
+			<serie>10</serie>
+			<sbserie>
+				<numb>10.0</numb>
+				<name>Cheetah</name>
+				<branche>
+					<version>Mac OS X 10.0.0</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.0.1</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.0.2</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+				<version>Mac OS X 10.0.3</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.0.4</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+			</sbserie>
+			<sbserie>
+				<numb>10.1</numb>
+				<name>Puma</name>
+				<branche>
+					<version>Mac OS X 10.1.0</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.1.1</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.1.2</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.1.3</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.1.4</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.1.5</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+			</sbserie>
+			<sbserie>
+				<numb>10.2</numb>
+				<name>Jaguar</name>
+				<branche>
+					<version>Mac OS X 10.2.0</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.2.1</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.2.2</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.2.3</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.2.4</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.2.5</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.2.6</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.2.7</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.2.8</version>
+					<processeur>(PPC G3+)</processeur>
+				</branche>
+			</sbserie>
+			<sbserie>
+				<numb>10.3</numb>
+				<name>Panther</name>
+				<branche>
+					<version>Mac OS X 10.3.0</version>
+					<processeur>(PPC New World)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.3.1</version>
+					<processeur>(PPC New World)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.3.2</version>
+					<processeur>(PPC New World)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.3.3</version>
+					<processeur>(PPC New World)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.3.4</version>
+					<processeur>(PPC New World)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.3.5</version>
+					<processeur>(PPC New World)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.3.6</version>
+					<processeur>(PPC New World)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.3.7</version>
+					<processeur>(PPC New World)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.3.8</version>
+					<processeur>(PPC New World)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.3.9</version>
+					<processeur>(PPC New World)</processeur>
+				</branche>
+			</sbserie>
+			<sbserie>
+				<numb>10.4</numb>
+				<name>Tiger</name>
+				<branche>
+					<version>Mac OS X 10.4.0</version>
+					<processeur>(PPC)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.4.1</version>
+					<processeur>(PPC)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.4.2</version>
+					<processeur>(PPC)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.4.3</version>
+					<processeur>(PPC)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.4.4</version>
+					<processeur>(PPC)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.4.5</version>
+					<processeur>(PPC)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.4.6</version>
+					<processeur>(PPC)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.4.7</version>
+					<processeur>(PPC/Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.4.8</version>
+					<processeur>(PPC/Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.4.9</version>
+					<processeur>(PPC/Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.4.10</version>
+					<processeur>(PPC/Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.4.11</version>
+					<processeur>PPC/Intel)</processeur>
+				</branche>
+			</sbserie>
+			<sbserie>
+				<numb>10.5</numb>
+				<name>Leopard</name>
+				<branche>
+					<version>Mac OS X 10.5.0</version>
+					<processeur>(PPCG4+/Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.5.1</version>
+					<processeur>(PPCG4+/Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.5.2</version>
+					<processeur>(PPCG4+/Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.5.3</version>
+					<processeur>(PPCG4+/Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.5.4</version>
+					<processeur>(PPCG4+/Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.5.5</version>
+					<processeur>(PPCG4+/Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.5.6</version>
+					<processeur>(PPCG4+/Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.5.7</version>
+					<processeur>(PPCG4+/Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.5.8</version>
+					<processeur>(PPCG4+/Intel)</processeur>
+				</branche>
+			</sbserie>
+			<sbserie>
+				<numb>10.6</numb>
+				<name>Snow Leopard</name>
+				<branche>
+					<version>Mac OS X 10.6.0</version>
+					<processeur>(Intel + Rosetta)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.6.1</version>
+					<processeur>(Intel + Rosetta)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.6.2</version>
+					<processeur>(Intel + Rosetta)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.6.3</version>
+					<processeur>(Intel + Rosetta)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.6.4</version>
+					<processeur>(Intel + Rosetta)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.6.5</version>
+					<processeur>(Intel + Rosetta)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.6.6</version>
+					<processeur>(Intel + Rosetta)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.6.7</version>
+					<processeur>(Intel + Rosetta)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.6.8</version>
+					<processeur>(Intel + Rosetta)</processeur>
+				</branche>
+			</sbserie>
+			<sbserie>
+				<numb>10.7</numb>
+				<name>Lion</name>
+				<branche>
+					<version>Mac OS X 10.7.0</version>
+					<processeur>(Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.7.1</version>
+					<processeur>(Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.7.2</version>
+					<processeur>(Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.7.3</version>
+					<processeur>(Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.7.4</version>
+					<processeur>(Intel)</processeur>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.7.5</version>
+					<processeur>(Intel)</processeur>
+				</branche>
+			</sbserie>
+			<sbserie>
+				<numb>10.8</numb>
+				<name>Mountain Lion</name>
+				<branche>
+					<version>Mac OS X 10.8.0</version>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.8.1</version>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.8.2</version>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.8.3</version>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.8.4</version>
+				</branche>
+				<branche>
+					<version>Mac OS X 10.8.5</version>
+				</branche>
+			</sbserie>
+			<sbserie>
+				<numb>10.9</numb>
+				<name>Mavericks</name>
+				<branche>
+					<version>OS X 10.9.0</version>
+				</branche>
+				<branche>
+					<version>OS X 10.9.1</version>
+				</branche>
+				<branche>
+					<version>OS X 10.9.2</version>
+				</branche>
+				<branche>
+					<version>OS X 10.9.3</version>
+				</branche>
+				<branche>
+					<version>OS X 10.9.4</version>
+				</branche>
+			</sbserie>
+			<sbserie>
+				<numb>10.10</numb>
+				<name>Yosemite</name>
+				<branche>
+					<version>OS X 10.10.0</version>
+				</branche>
+			</sbserie>
+		</gamme>
+	</computer>
+	<server>
+		<gamme>
+			<serie>1</serie>
+			<name>Rhapsody</name>
+			<branche>
+				<version>OS X Server 1</version>
+			</branche>
+			<branche>
+				<version>OS X Server 1.0</version>
+				<datesortie>(March 16, 1999)</datesortie>
+			</branche>
+			<branche>
+				<version>OS X Server 1.0.1</version>
+				<datesortie>(April 15, 1999)</datesortie>
+			</branche>
+			<branche>
+				<version>OS X Server 1.0.2</version>
+				<datesortie>(July 29, 1999)</datesortie>
+			</branche>
+			<branche>
+				<version>OS X Server 1.2</version>
+				<datesortie>(January 14, 2000)</datesortie>
+			</branche>
+			<branche>
+				<version>OS X Server 1.2v2</version>
+				<datesortie></datesortie>
+			</branche>
+			<branche>
+				<version>OS X Server 1.2v3</version>
+				<datesortie>(October 27, 2000)</datesortie>
+			</branche>
+		</gamme>
+	</server>
+</apple>

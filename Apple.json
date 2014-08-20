@@ -1,0 +1,500 @@
+{
+  "apple": {
+    "computer": {
+      "gamme": [
+        {
+          "serie": "7",
+          "branche": [
+            {
+              "version": "Mac OS 7.5.1",
+              "architecture": "24/32-bit 68k",
+              "processeur": "PPC"
+            },
+            {
+              "version": "Mac OS 7.5.2",
+              "architecture": "24/32-bit 68k",
+              "processeur": "PPC"
+            },
+            {
+              "version": "Mac OS 7.5.3",
+              "architecture": "24/32-bit 68k",
+              "processeur": "PPC"
+            },
+            {
+              "version": "Mac OS 7.5.3 Revision 2",
+              "architecture": "24/32-bit 68",
+              "processeur": "PPC"
+            },
+            {
+              "version": "Mac OS 7.5.3 Revision 2.1",
+              "architecture": "24/32-bit 68k",
+              "processeur": "PPC"
+            },
+            {
+              "version": "Mac OS 7.5.3 Revision 2.2",
+              "architecture": "24/32-bit 68k",
+              "processeur": "PPC"
+            },
+            { "version": "Mac OS 7.5.4 -- never offically released from Apple" },
+            {
+              "version": "Mac OS 7.5.5",
+              "architecture": "24/32-bit 68k",
+              "processeur": "PPC"
+            },
+            {
+              "version": "Mac OS 7.6",
+              "architecture": "32-bit 68k",
+              "processeur": "PPC",
+              "#text": "
+				 \"Harmony\""
+            },
+            {
+              "version": "Mac OS 7.6.1",
+              "architecture": "32-bit 68k",
+              "processeur": "PPC"
+            }
+          ]
+        },
+        {
+          "serie": "8",
+          "branche": [
+            {
+              "version": "Mac OS 8.0",
+              "architecture": "32-bit 68k",
+              "processeur": "PPC"
+            },
+            {
+              "version": "Mac OS 8.1",
+              "architecture": "32-bit 68k",
+              "processeur": "PPC"
+            },
+            {
+              "version": "Mac OS 8.5",
+              "processeur": "PPC"
+            },
+            {
+              "version": "Mac OS 8.5.1",
+              "processeur": "PPC"
+            },
+            {
+              "version": "Mac OS 8.6",
+              "processeur": "PPC"
+            }
+          ]
+        },
+        {
+          "serie": "9",
+          "branche": [
+            {
+              "version": "Mac OS 9.0.0",
+              "processeur": "(PPC All)"
+            },
+            {
+              "version": "Mac OS 9.0.2",
+              "processeur": "(PPC All)"
+            },
+            {
+              "version": "Mac OS 9.0.3",
+              "processeur": "(PPC All)"
+            },
+            {
+              "version": "Mac OS 9.0.4",
+              "processeur": "(PPC All)"
+            },
+            {
+              "version": "Mac OS 9.1",
+              "processeur": "(PPC with MMU)"
+            },
+            {
+              "version": "Mac OS 9.2.0",
+              "processeur": "(PPC G3+)"
+            },
+            {
+              "version": "Mac OS 9.2.1",
+              "processeur": "(PPC G3+)"
+            },
+            {
+              "version": "Mac OS 9.2.2",
+              "processeur": "(PPC G3+)"
+            }
+          ]
+        },
+        {
+          "serie": "10",
+          "sbserie": [
+            {
+              "numb": "10.0",
+              "name": "Cheetah",
+              "branche": [
+                {
+                  "version": "Mac OS X 10.0.0",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.0.1",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.0.2",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.0.3",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.0.4",
+                  "processeur": "(PPC G3+)"
+                }
+              ]
+            },
+            {
+              "numb": "10.1",
+              "name": "Puma",
+              "branche": [
+                {
+                  "version": "Mac OS X 10.1.0",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.1.1",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.1.2",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.1.3",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.1.4",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.1.5",
+                  "processeur": "(PPC G3+)"
+                }
+              ]
+            },
+            {
+              "numb": "10.2",
+              "name": "Jaguar",
+              "branche": [
+                {
+                  "version": "Mac OS X 10.2.0",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.2.1",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.2.2",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.2.3",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.2.4",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.2.5",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.2.6",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.2.7",
+                  "processeur": "(PPC G3+)"
+                },
+                {
+                  "version": "Mac OS X 10.2.8",
+                  "processeur": "(PPC G3+)"
+                }
+              ]
+            },
+            {
+              "numb": "10.3",
+              "name": "Panther",
+              "branche": [
+                {
+                  "version": "Mac OS X 10.3.0",
+                  "processeur": "(PPC New World)"
+                },
+                {
+                  "version": "Mac OS X 10.3.1",
+                  "processeur": "(PPC New World)"
+                },
+                {
+                  "version": "Mac OS X 10.3.2",
+                  "processeur": "(PPC New World)"
+                },
+                {
+                  "version": "Mac OS X 10.3.3",
+                  "processeur": "(PPC New World)"
+                },
+                {
+                  "version": "Mac OS X 10.3.4",
+                  "processeur": "(PPC New World)"
+                },
+                {
+                  "version": "Mac OS X 10.3.5",
+                  "processeur": "(PPC New World)"
+                },
+                {
+                  "version": "Mac OS X 10.3.6",
+                  "processeur": "(PPC New World)"
+                },
+                {
+                  "version": "Mac OS X 10.3.7",
+                  "processeur": "(PPC New World)"
+                },
+                {
+                  "version": "Mac OS X 10.3.8",
+                  "processeur": "(PPC New World)"
+                },
+                {
+                  "version": "Mac OS X 10.3.9",
+                  "processeur": "(PPC New World)"
+                }
+              ]
+            },
+            {
+              "numb": "10.4",
+              "name": "Tiger",
+              "branche": [
+                {
+                  "version": "Mac OS X 10.4.0",
+                  "processeur": "(PPC)"
+                },
+                {
+                  "version": "Mac OS X 10.4.1",
+                  "processeur": "(PPC)"
+                },
+                {
+                  "version": "Mac OS X 10.4.2",
+                  "processeur": "(PPC)"
+                },
+                {
+                  "version": "Mac OS X 10.4.3",
+                  "processeur": "(PPC)"
+                },
+                {
+                  "version": "Mac OS X 10.4.4",
+                  "processeur": "(PPC)"
+                },
+                {
+                  "version": "Mac OS X 10.4.5",
+                  "processeur": "(PPC)"
+                },
+                {
+                  "version": "Mac OS X 10.4.6",
+                  "processeur": "(PPC)"
+                },
+                {
+                  "version": "Mac OS X 10.4.7",
+                  "processeur": "(PPC/Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.4.8",
+                  "processeur": "(PPC/Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.4.9",
+                  "processeur": "(PPC/Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.4.10",
+                  "processeur": "(PPC/Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.4.11",
+                  "processeur": "PPC/Intel)"
+                }
+              ]
+            },
+            {
+              "numb": "10.5",
+              "name": "Leopard",
+              "branche": [
+                {
+                  "version": "Mac OS X 10.5.0",
+                  "processeur": "(PPCG4+/Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.5.1",
+                  "processeur": "(PPCG4+/Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.5.2",
+                  "processeur": "(PPCG4+/Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.5.3",
+                  "processeur": "(PPCG4+/Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.5.4",
+                  "processeur": "(PPCG4+/Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.5.5",
+                  "processeur": "(PPCG4+/Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.5.6",
+                  "processeur": "(PPCG4+/Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.5.7",
+                  "processeur": "(PPCG4+/Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.5.8",
+                  "processeur": "(PPCG4+/Intel)"
+                }
+              ]
+            },
+            {
+              "numb": "10.6",
+              "name": "Snow Leopard",
+              "branche": [
+                {
+                  "version": "Mac OS X 10.6.0",
+                  "processeur": "(Intel + Rosetta)"
+                },
+                {
+                  "version": "Mac OS X 10.6.1",
+                  "processeur": "(Intel + Rosetta)"
+                },
+                {
+                  "version": "Mac OS X 10.6.2",
+                  "processeur": "(Intel + Rosetta)"
+                },
+                {
+                  "version": "Mac OS X 10.6.3",
+                  "processeur": "(Intel + Rosetta)"
+                },
+                {
+                  "version": "Mac OS X 10.6.4",
+                  "processeur": "(Intel + Rosetta)"
+                },
+                {
+                  "version": "Mac OS X 10.6.5",
+                  "processeur": "(Intel + Rosetta)"
+                },
+                {
+                  "version": "Mac OS X 10.6.6",
+                  "processeur": "(Intel + Rosetta)"
+                },
+                {
+                  "version": "Mac OS X 10.6.7",
+                  "processeur": "(Intel + Rosetta)"
+                },
+                {
+                  "version": "Mac OS X 10.6.8",
+                  "processeur": "(Intel + Rosetta)"
+                }
+              ]
+            },
+            {
+              "numb": "10.7",
+              "name": "Lion",
+              "branche": [
+                {
+                  "version": "Mac OS X 10.7.0",
+                  "processeur": "(Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.7.1",
+                  "processeur": "(Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.7.2",
+                  "processeur": "(Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.7.3",
+                  "processeur": "(Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.7.4",
+                  "processeur": "(Intel)"
+                },
+                {
+                  "version": "Mac OS X 10.7.5",
+                  "processeur": "(Intel)"
+                }
+              ]
+            },
+            {
+              "numb": "10.8",
+              "name": "Mountain Lion",
+              "branche": [
+                { "version": "Mac OS X 10.8.0" },
+                { "version": "Mac OS X 10.8.1" },
+                { "version": "Mac OS X 10.8.2" },
+                { "version": "Mac OS X 10.8.3" },
+                { "version": "Mac OS X 10.8.4" },
+                { "version": "Mac OS X 10.8.5" }
+              ]
+            },
+            {
+              "numb": "10.9",
+              "name": "Mavericks",
+              "branche": [
+                { "version": "OS X 10.9.0" },
+                { "version": "OS X 10.9.1" },
+                { "version": "OS X 10.9.2" },
+                { "version": "OS X 10.9.3" },
+                { "version": "OS X 10.9.4" }
+              ]
+            },
+            {
+              "numb": "10.10",
+              "name": "Yosemite",
+              "branche": { "version": "OS X 10.10.0" }
+            }
+          ]
+        }
+      ]
+    },
+    "server": {
+      "gamme": {
+        "serie": "1",
+        "name": "Rhapsody",
+        "branche": [
+          { "version": "OS X Server 1" },
+          {
+            "version": "OS X Server 1.0",
+            "datesortie": "(March 16, 1999)"
+          },
+          {
+            "version": "OS X Server 1.0.1",
+            "datesortie": "(April 15, 1999)"
+          },
+          {
+            "version": "OS X Server 1.0.2",
+            "datesortie": "(July 29, 1999)"
+          },
+          {
+            "version": "OS X Server 1.2",
+            "datesortie": "(January 14, 2000)"
+          },
+          { "version": "OS X Server 1.2v2" },
+          {
+            "version": "OS X Server 1.2v3",
+            "datesortie": "(October 27, 2000)"
+          }
+        ]
+      }
+    }
+  }
+}
