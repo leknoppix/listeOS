@@ -55,6 +55,30 @@
 					<datefin>12/2000</datefin>
 					<nbpacket>2250</nbpacket>
 				</sbserie>
+				<sbserie>
+					<numb>2.2</numb>
+					<namecode>Potato</namecode>
+					<datesortie>15/08/200</datesortie>
+					<datefin>04/2003</datefin>
+					<nbpacket>3900</nbpacket>
+				</sbserie>
+			</branche>
+			<branche>
+				<version>3</version>
+				<sbserie>
+					<numb>3.0</numb>
+					<namecode>Woody</namecode>
+					<datesortie>19/07/2002</datesortie>
+					<datefin>08/2006</datefin>
+					<nbpacket>8500</nbpacket>
+				</sbserie>
+				<sbserie>
+					<numb>3.1</numb>
+					<namecode>Sarge</namecode>
+					<datesortie>6/05/2005</datesortie>
+					<datefin>04/2008</datefin>
+					<nbpacket>15400</nbpacket>
+				</sbserie>
 			</branche>
 	</debian>
 </linux>
