@@ -80,5 +80,45 @@
 					<nbpacket>15400</nbpacket>
 				</sbserie>
 			</branche>
+			<branche>
+				<version>4</version>
+				<sbserie>
+					<numb>4.0</numb>
+					<namecode>Etch</namecode>
+					<datesortie>8/04/2007</datesortie>
+					<datefin>15/02/2010</datefin>
+					<nbpacket>18000</nbpacket>
+				</sbserie>
+			</branche>
+			<branche>
+				<version>5</version>
+				<sbserie>
+					<numb>5.0</numb>
+					<namecode>Lenny</namecode>
+					<datesortie>14/02/2009</datesortie>
+					<datefin>6/02/2012</datefin>
+					<nbpacket>23000</nbpacket>
+				</sbserie>
+			</branche>
+			<branche>
+				<version>6</version>
+				<sbserie>
+					<numb>6.0</numb>
+					<namecode>Squeeze</namecode>
+					<datesortie>06/02/2011</datesortie>
+					<datefin>31/05/2014</datefin>
+					<nbpacket>29000</nbpacket>
+				</sbserie>
+			</branche>
+			<branche>
+				<version>7</version>
+				<sbserie>
+					<numb>7.0</numb>
+					<namecode>Wheezy</namecode>
+					<datesortie>04/05/2013</datesortie>
+					<datefin></datefin>
+					<nbpacket>36000</nbpacket>
+				</sbserie>
+			</branche>
 	</debian>
 </linux>
