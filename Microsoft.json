@@ -1,384 +1,384 @@
 {
-  "microsoft_windows": {
-    "gamme": [
-      {
-        "modele": "DE",
-        "architecture": "16 bits",
-        "branche": [
-          {
-            "version": "windows 1.0",
-            "date_sortie": "1985-11-00T00:00:00Z"
-          },
-          {
-            "version": "windows 2",
-            "date_sortie": "1987-12-00T00:00:00Z"
-          },
-          {
-            "version": "windows 2.10",
-            "date_sortie": "1987-12-00T00:00:00Z"
-          },
-          { "version": "windows 2.11" },
-          {
-            "version": "windows 3.0",
-            "date_sortie": "1990-05-00T00:00:00Z"
-          },
-          {
-            "version": "windows 3.1",
-            "date_sortie": "1992-04-00T00:00:00Z",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows for workgroup 3.1",
-            "date_sortie": "1992-10-00T00:00:00Z",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows for workgroup 3.11",
-            "date_sortie": "1993-11-00T00:00:00Z",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows for workgroup 3.2",
-            "specificite": "en chinois",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          }
-        ]
-      },
-      {
-        "modele": "DE",
-        "architecture": "32 bits",
-        "branche": [
-          {
-            "version": "windows 95",
-            "date_sortie": "Aout 1995",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows 95 OSR2",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows 98",
-            "date_sortie": "juin 1998",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows 98 SE ",
-            "date_sortie": "mai 1999",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows Me",
-            "date_sortie": "septembre 2000",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          }
-        ]
-      },
-      {
-        "modele": "NT",
-        "architecture": "32 bits / 64 bits",
-        "branche": [
-          {
-            "version": "windows NT 3.1",
-            "date_sortie": "1993",
-            "utilisation": "Ordinateur personnel / station de travail / serveur",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows NT 3.5",
-            "date_sortie": "1994",
-            "utilisation": "Ordinateur personnel / station de travail / serveur",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows NT 3.51",
-            "date_sortie": "1995",
-            "utilisation": "Ordinateur personnel / station de travail / serveur",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows NT 4.0",
-            "date_sortie": "1996",
-            "utilisation": "Ordinateur personnel / station de travail / serveur",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows 2000",
-            "date_sortie": "2000",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows 2000 SP1",
-            "date_sortie": "2000",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows 2000 SP2",
-            "date_sortie": "2001",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows XP",
-            "date_sortie": "2001",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows 2000 SP3",
-            "date_sortie": "2002",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows XP SP1",
-            "date_sortie": "2002",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows XP edition media center",
-            "date_sortie": "2002",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows SERVER 2003",
-            "date_sortie": "2003",
-            "utilisation": "Serveur",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows 2000 SP4",
-            "date_sortie": "2003",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows XP edition starter",
-            "date_sortie": "2004",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows XP SP2",
-            "date_sortie": "2004",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows XP home edition n",
-            "date_sortie": "2005",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows XP 64",
-            "date_sortie": "2005",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows XP edition media center 2005",
-            "date_sortie": "2005",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows Vista ",
-            "date_sortie": "2006-2007",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows SERVER 2008",
-            "date_sortie": "2008",
-            "utilisation": "Serveur",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows XP SP3",
-            "date_sortie": "2008",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows Vista SP1",
-            "date_sortie": "2009",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows Vista SP2",
-            "date_sortie": "2009",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows 7",
-            "date_sortie": "22 OCT 2009",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows 8",
-            "date_sortie": "2012",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows 8.1",
-            "date_sortie": "2014",
-            "utilisation": "Ordinateur personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          }
-        ]
-      },
-      {
-        "modele": "CE",
-        "branche": [
-          {
-            "version": "windows CE 1",
-            "date_sortie": "1996",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows CE 2",
-            "date_sortie": "1997",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows CE 2.1",
-            "date_sortie": "1998",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows CE 3",
-            "date_sortie": "1999",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows CE NET",
-            "date_sortie": "2000",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "pocket pc 2000",
-            "date_sortie": "2001",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "pocket pc 2002",
-            "date_sortie": "2002",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows mobile 2003",
-            "date_sortie": "2003",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows mobile SE",
-            "date_sortie": "2004",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows mobile 5.0",
-            "date_sortie": "2005",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows mobile 6.0",
-            "date_sortie": "2007",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows mobile 6.1",
-            "date_sortie": "avr 2008",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows mobile 6.5",
-            "date_sortie": "2009",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          },
-          {
-            "version": "windows mobile 7.0 ",
-            "date_sortie": "debut 2010",
-            "utilisation": "Smartphone / assistant personnel",
-            "graphique": "Yes",
-            "multitache": "Yes"
-          }
-        ]
-      }
-    ]
-  }
+	"microsoft_windows": {
+		"gamme": [
+		{
+			"modele": "DE",
+			"architecture": "16 bits",
+			"branche": [
+			{
+				"version": "windows 1.0",
+				"date_sortie": "1985-11-00T00:00:00Z"
+			},
+			{
+				"version": "windows 2",
+				"date_sortie": "1987-12-00T00:00:00Z"
+			},
+				{
+					"version": "windows 2.10",
+					"date_sortie": "1987-12-00T00:00:00Z"
+				},
+				{ "version": "windows 2.11" },
+					{
+						"version": "windows 3.0",
+						"date_sortie": "1990-05-00T00:00:00Z"
+					},
+					{
+						"version": "windows 3.1",
+						"date_sortie": "1992-04-00T00:00:00Z",
+						"graphique": "Yes",
+						"multitache": "Yes"
+					},
+						{
+							"version": "windows for workgroup 3.1",
+							"date_sortie": "1992-10-00T00:00:00Z",
+							"graphique": "Yes",
+							"multitache": "Yes"
+						},
+						{
+							"version": "windows for workgroup 3.11",
+							"date_sortie": "1993-11-00T00:00:00Z",
+							"graphique": "Yes",
+							"multitache": "Yes"
+						},
+							{
+								"version": "windows for workgroup 3.2",
+								"specificite": "en chinois",
+								"graphique": "Yes",
+								"multitache": "Yes"
+							}
+			]
+		},
+		{
+			"modele": "DE",
+			"architecture": "32 bits",
+			"branche": [
+			{
+				"version": "windows 95",
+				"date_sortie": "Aout 1995",
+				"utilisation": "Ordinateur personnel",
+				"graphique": "Yes",
+				"multitache": "Yes"
+			},
+			{
+				"version": "windows 95 OSR2",
+				"utilisation": "Ordinateur personnel",
+				"graphique": "Yes",
+				"multitache": "Yes"
+			},
+				{
+					"version": "windows 98",
+					"date_sortie": "juin 1998",
+					"utilisation": "Ordinateur personnel",
+					"graphique": "Yes",
+					"multitache": "Yes"
+				},
+				{
+					"version": "windows 98 SE ",
+					"date_sortie": "mai 1999",
+					"utilisation": "Ordinateur personnel",
+					"graphique": "Yes",
+					"multitache": "Yes"
+				},
+					{
+						"version": "windows Me",
+						"date_sortie": "septembre 2000",
+						"utilisation": "Ordinateur personnel",
+						"graphique": "Yes",
+						"multitache": "Yes"
+					}
+			]
+		},
+		{
+			"modele": "NT",
+			"architecture": "32 bits / 64 bits",
+			"branche": [
+			{
+				"version": "windows NT 3.1",
+				"date_sortie": "1993",
+				"utilisation": "Ordinateur personnel / station de travail / serveur",
+				"graphique": "Yes",
+				"multitache": "Yes"
+			},
+			{
+				"version": "windows NT 3.5",
+				"date_sortie": "1994",
+				"utilisation": "Ordinateur personnel / station de travail / serveur",
+				"graphique": "Yes",
+				"multitache": "Yes"
+			},
+				{
+					"version": "windows NT 3.51",
+					"date_sortie": "1995",
+					"utilisation": "Ordinateur personnel / station de travail / serveur",
+					"graphique": "Yes",
+					"multitache": "Yes"
+				},
+				{
+					"version": "windows NT 4.0",
+					"date_sortie": "1996",
+					"utilisation": "Ordinateur personnel / station de travail / serveur",
+					"graphique": "Yes",
+					"multitache": "Yes"
+				},
+					{
+						"version": "windows 2000",
+						"date_sortie": "2000",
+						"utilisation": "Ordinateur personnel",
+						"graphique": "Yes",
+						"multitache": "Yes"
+					},
+					{
+						"version": "windows 2000 SP1",
+						"date_sortie": "2000",
+						"utilisation": "Ordinateur personnel",
+						"graphique": "Yes",
+						"multitache": "Yes"
+					},
+						{
+							"version": "windows 2000 SP2",
+							"date_sortie": "2001",
+							"utilisation": "Ordinateur personnel",
+							"graphique": "Yes",
+							"multitache": "Yes"
+						},
+						{
+							"version": "windows XP",
+							"date_sortie": "2001",
+							"utilisation": "Ordinateur personnel",
+							"graphique": "Yes",
+							"multitache": "Yes"
+						},
+							{
+								"version": "windows 2000 SP3",
+								"date_sortie": "2002",
+								"utilisation": "Ordinateur personnel",
+								"graphique": "Yes",
+								"multitache": "Yes"
+							},
+							{
+								"version": "windows XP SP1",
+								"date_sortie": "2002",
+								"utilisation": "Ordinateur personnel",
+								"graphique": "Yes",
+								"multitache": "Yes"
+							},
+								{
+									"version": "windows XP edition media center",
+									"date_sortie": "2002",
+									"utilisation": "Ordinateur personnel",
+									"graphique": "Yes",
+									"multitache": "Yes"
+								},
+								{
+									"version": "windows SERVER 2003",
+									"date_sortie": "2003",
+									"utilisation": "Serveur",
+									"graphique": "Yes",
+									"multitache": "Yes"
+								},
+									{
+										"version": "windows 2000 SP4",
+										"date_sortie": "2003",
+										"utilisation": "Ordinateur personnel",
+										"graphique": "Yes",
+										"multitache": "Yes"
+									},
+									{
+										"version": "windows XP edition starter",
+										"date_sortie": "2004",
+										"utilisation": "Ordinateur personnel",
+										"graphique": "Yes",
+										"multitache": "Yes"
+									},
+										{
+											"version": "windows XP SP2",
+											"date_sortie": "2004",
+											"utilisation": "Ordinateur personnel",
+											"graphique": "Yes",
+											"multitache": "Yes"
+										},
+										{
+											"version": "windows XP home edition n",
+											"date_sortie": "2005",
+											"utilisation": "Ordinateur personnel",
+											"graphique": "Yes",
+											"multitache": "Yes"
+										},
+											{
+												"version": "windows XP 64",
+												"date_sortie": "2005",
+												"utilisation": "Ordinateur personnel",
+												"graphique": "Yes",
+												"multitache": "Yes"
+											},
+											{
+												"version": "windows XP edition media center 2005",
+												"date_sortie": "2005",
+												"utilisation": "Ordinateur personnel",
+												"graphique": "Yes",
+												"multitache": "Yes"
+											},
+												{
+													"version": "windows Vista ",
+													"date_sortie": "2006-2007",
+													"utilisation": "Ordinateur personnel",
+													"graphique": "Yes",
+													"multitache": "Yes"
+												},
+												{
+													"version": "windows SERVER 2008",
+													"date_sortie": "2008",
+													"utilisation": "Serveur",
+													"graphique": "Yes",
+													"multitache": "Yes"
+												},
+													{
+														"version": "windows XP SP3",
+														"date_sortie": "2008",
+														"utilisation": "Ordinateur personnel",
+														"graphique": "Yes",
+														"multitache": "Yes"
+													},
+													{
+														"version": "windows Vista SP1",
+														"date_sortie": "2009",
+														"utilisation": "Ordinateur personnel",
+														"graphique": "Yes",
+														"multitache": "Yes"
+													},
+														{
+															"version": "windows Vista SP2",
+															"date_sortie": "2009",
+															"utilisation": "Ordinateur personnel",
+															"graphique": "Yes",
+															"multitache": "Yes"
+														},
+														{
+															"version": "windows 7",
+															"date_sortie": "22 OCT 2009",
+															"utilisation": "Ordinateur personnel",
+															"graphique": "Yes",
+															"multitache": "Yes"
+														},
+															{
+																"version": "windows 8",
+																"date_sortie": "2012",
+																"utilisation": "Ordinateur personnel",
+																"graphique": "Yes",
+																"multitache": "Yes"
+															},
+															{
+																"version": "windows 8.1",
+																"date_sortie": "2014",
+																"utilisation": "Ordinateur personnel",
+																"graphique": "Yes",
+																"multitache": "Yes"
+															}
+			]
+		},
+			{
+				"modele": "CE",
+				"branche": [
+				{
+					"version": "windows CE 1",
+					"date_sortie": "1996",
+					"utilisation": "Smartphone / assistant personnel",
+					"graphique": "Yes",
+					"multitache": "Yes"
+				},
+				{
+					"version": "windows CE 2",
+					"date_sortie": "1997",
+					"utilisation": "Smartphone / assistant personnel",
+					"graphique": "Yes",
+					"multitache": "Yes"
+				},
+					{
+						"version": "windows CE 2.1",
+						"date_sortie": "1998",
+						"utilisation": "Smartphone / assistant personnel",
+						"graphique": "Yes",
+						"multitache": "Yes"
+					},
+					{
+						"version": "windows CE 3",
+						"date_sortie": "1999",
+						"utilisation": "Smartphone / assistant personnel",
+						"graphique": "Yes",
+						"multitache": "Yes"
+					},
+						{
+							"version": "windows CE NET",
+							"date_sortie": "2000",
+							"utilisation": "Smartphone / assistant personnel",
+							"graphique": "Yes",
+							"multitache": "Yes"
+						},
+						{
+							"version": "pocket pc 2000",
+							"date_sortie": "2001",
+							"utilisation": "Smartphone / assistant personnel",
+							"graphique": "Yes",
+							"multitache": "Yes"
+						},
+							{
+								"version": "pocket pc 2002",
+								"date_sortie": "2002",
+								"utilisation": "Smartphone / assistant personnel",
+								"graphique": "Yes",
+								"multitache": "Yes"
+							},
+							{
+								"version": "windows mobile 2003",
+								"date_sortie": "2003",
+								"utilisation": "Smartphone / assistant personnel",
+								"graphique": "Yes",
+								"multitache": "Yes"
+							},
+								{
+									"version": "windows mobile SE",
+									"date_sortie": "2004",
+									"utilisation": "Smartphone / assistant personnel",
+									"graphique": "Yes",
+									"multitache": "Yes"
+								},
+								{
+									"version": "windows mobile 5.0",
+									"date_sortie": "2005",
+									"utilisation": "Smartphone / assistant personnel",
+									"graphique": "Yes",
+									"multitache": "Yes"
+								},
+									{
+										"version": "windows mobile 6.0",
+										"date_sortie": "2007",
+										"utilisation": "Smartphone / assistant personnel",
+										"graphique": "Yes",
+										"multitache": "Yes"
+									},
+									{
+										"version": "windows mobile 6.1",
+										"date_sortie": "avr 2008",
+										"utilisation": "Smartphone / assistant personnel",
+										"graphique": "Yes",
+										"multitache": "Yes"
+									},
+										{
+											"version": "windows mobile 6.5",
+											"date_sortie": "2009",
+											"utilisation": "Smartphone / assistant personnel",
+											"graphique": "Yes",
+											"multitache": "Yes"
+										},
+										{
+											"version": "windows mobile 7.0 ",
+											"date_sortie": "debut 2010",
+											"utilisation": "Smartphone / assistant personnel",
+											"graphique": "Yes",
+											"multitache": "Yes"
+										}
+				]
+			}
+		]
+	}
 }

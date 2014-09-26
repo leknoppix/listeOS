@@ -44,7 +44,7 @@
 				<version>Mac OS 7.6</version>
 				<architecture>32-bit 68k</architecture>
 				<processeur>PPC</processeur>
-				 "Harmony"</branche>
+				"Harmony"</branche>
 			<branche>
 				<version>Mac OS 7.6.1</version>
 				<architecture>32-bit 68k</architecture>
@@ -129,7 +129,7 @@
 					<processeur>PPC G3+</processeur>
 				</branche>
 				<branche>
-				<version>Mac OS X 10.0.3</version>
+					<version>Mac OS X 10.0.3</version>
 					<processeur>PPC G3+</processeur>
 				</branche>
 				<branche>
