@@ -65,7 +65,7 @@
 				<namecode>Biltmore</namecode>
 				<datesortie>19/05/1997</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>458</nbpacket>
 			</sbserie>
 		</branche>
 		<branche>
@@ -75,21 +75,21 @@
 				<namecode>Hurricane</namecode>
 				<datesortie>1/12/1997</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>482</nbpacket>
 			</sbserie>
 			<sbserie>
 				<numb>5.1</numb>
 				<namecode>Manhattan</namecode>
 				<datesortie>22/05/1998</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>523</nbpacket>
 			</sbserie>
 			<sbserie>
 				<numb>5.2</numb>
 				<namecode>Apollo</namecode>
 				<datesortie>2/11/1998</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>573</nbpacket>
 			</sbserie>
 		</branche>
 		<branche>
@@ -99,21 +99,21 @@
 				<namecode>Hedwig</namecode>
 				<datesortie>26/04/1999</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>645</nbpacket>
 			</sbserie>
 			<sbserie>
 				<numb>6.1</numb>
 				<namecode>Cartman</namecode>
 				<datesortie>4/10/1999</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>719</nbpacket>
 			</sbserie>
 			<sbserie>
 				<numb>6.2</numb>
 				<namecode>Zoot</namecode>
 				<datesortie>3/04/2000</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>744</nbpacket>
 			</sbserie>
 			<sbserie>
 				<numb>6.2E</numb>
@@ -130,28 +130,28 @@
 				<namecode>Guinness</namecode>
 				<datesortie>25/09/2000</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>866</nbpacket>
 			</sbserie>
 			<sbserie>
 				<numb>7.1</numb>
 				<namecode>Seawolf</namecode>
 				<datesortie>16/04/2001</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>1017</nbpacket>
 			</sbserie>
 			<sbserie>
 				<numb>7.2</numb>
 				<namecode>Enigma</namecode>
 				<datesortie>22/10/2001</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>1231</nbpacket>
 			</sbserie>
 			<sbserie>
 				<numb>7.3</numb>
 				<namecode>Valhalla</namecode>
 				<datesortie>6/5/2002</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>1438</nbpacket>
 			</sbserie>
 		</branche>
 		<branche>
@@ -161,7 +161,7 @@
 				<namecode>Psyche</namecode>
 				<datesortie>30/09/2002</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>1472</nbpacket>
 			</sbserie>
 		</branche>
 		<branche>
@@ -171,7 +171,7 @@
 				<namecode>Shrike</namecode>
 				<datesortie>31/03/2003</datesortie>
 				<datefin></datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>1402</nbpacket>
 			</sbserie>
 		</branche>
 	</rhl>

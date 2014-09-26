@@ -1,0 +1,164 @@
+{
+	"linux": {
+		"rhl": {
+			"branche": [
+				{
+					"version": "1",
+					"sbserie": [
+						{
+							"numb": "1",
+							"namecode": "Mother's Day",
+							"datesortie": "12/11/1994"
+						},
+						{
+							"numb": "1.1",
+							"namecode": "Mother's Day+0.1",
+							"datesortie": "1/09/1995"
+						}
+					]
+				},
+				{
+					"version": "2",
+					"sbserie": [
+						{
+							"numb": "2.0",
+							"datesortie": "20/09/1995"
+						},
+						{
+							"numb": "2.1",
+							"namecode": "Bluesky",
+							"datesortie": "23/11/1995"
+						}
+					]
+				},
+				{
+					"version": "3",
+					"sbserie": {
+						"numb": "3.0.3",
+						"namecode": "Picasso",
+						"datesortie": "1/05/1996"
+					}
+				},
+				{
+					"version": "4",
+					"sbserie": [
+						{
+							"numb": "4.0",
+							"namecode": "Colgate",
+							"datesortie": "3/10/1996"
+						},
+						{
+							"numb": "4.1",
+							"namecode": "Vanderbilt",
+							"datesortie": "3/02/1997"
+						},
+						{
+							"numb": "4.2",
+							"namecode": "Biltmore",
+							"datesortie": "19/05/1997",
+							"nbpacket": "458"
+						}
+					]
+				},
+				{
+					"version": "5",
+					"sbserie": [
+						{
+							"numb": "5.0",
+							"namecode": "Hurricane",
+							"datesortie": "1/12/1997",
+							"nbpacket": "482"
+						},
+						{
+							"numb": "5.1",
+							"namecode": "Manhattan",
+							"datesortie": "22/05/1998",
+							"nbpacket": "523"
+						},
+						{
+							"numb": "5.2",
+							"namecode": "Apollo",
+							"datesortie": "2/11/1998",
+							"nbpacket": "573"
+						}
+					]
+				},
+				{
+					"version": "6",
+					"sbserie": [
+						{
+							"numb": "6.0",
+							"namecode": "Hedwig",
+							"datesortie": "26/04/1999",
+							"nbpacket": "645"
+						},
+						{
+							"numb": "6.1",
+							"namecode": "Cartman",
+							"datesortie": "4/10/1999",
+							"nbpacket": "719"
+						},
+						{
+							"numb": "6.2",
+							"namecode": "Zoot",
+							"datesortie": "3/04/2000",
+							"nbpacket": "744"
+						},
+						{
+							"numb": "6.2E",
+							"namecode": "Enterprise Edition",
+							"datesortie": "27/03/2000"
+						}
+					]
+				},
+				{
+					"version": "7",
+					"sbserie": [
+						{
+							"numb": "7",
+							"namecode": "Guinness",
+							"datesortie": "25/09/2000",
+							"nbpacket": "866"
+						},
+						{
+							"numb": "7.1",
+							"namecode": "Seawolf",
+							"datesortie": "16/04/2001",
+							"nbpacket": "1017"
+						},
+						{
+							"numb": "7.2",
+							"namecode": "Enigma",
+							"datesortie": "22/10/2001",
+							"nbpacket": "1231"
+						},
+						{
+							"numb": "7.3",
+							"namecode": "Valhalla",
+							"datesortie": "6/5/2002",
+							"nbpacket": "1438"
+						}
+					]
+				},
+				{
+					"version": "8",
+					"sbserie": {
+						"numb": "8.0",
+						"namecode": "Psyche",
+						"datesortie": "30/09/2002",
+						"nbpacket": "1472"
+					}
+				},
+				{
+					"version": "9",
+					"sbserie": {
+						"numb": "9",
+						"namecode": "Shrike",
+						"datesortie": "31/03/2003",
+						"nbpacket": "1402"
+					}
+				}
+			]
+		}
+	}
+}
