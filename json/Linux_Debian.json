@@ -1,0 +1,135 @@
+{
+	"linux": {
+		"debian": {
+			"branche": [
+				{
+					"version": "0",
+					"sbserie": [
+						{
+							"numb": "0.01 à 0.91",
+							"datesortie": "08/1993 à 01/1994"
+						},
+						{
+							"numb": "0.93R3",
+							"datesortie": "03/1995"
+						},
+						{
+							"numb": "0.93r6",
+							"datesortie": "11/1995"
+						}
+					]
+				},
+				{
+					"version": "1",
+					"sbserie": [
+						{
+							"numb": "1.1",
+							"namecode": "Buzz",
+							"datesortie": "11/07/1996",
+							"datefin": "09/1996",
+							"nbpacket": "474"
+						},
+						{
+							"numb": "1.2",
+							"namecode": "Rex",
+							"datesortie": "12/12/1996",
+							"datefin": "1996",
+							"nbpacket": "848"
+						},
+						{
+							"numb": "1.3",
+							"namecode": "Bo",
+							"datesortie": "2/07/1997",
+							"datefin": "1997",
+							"nbpacket": "974"
+						}
+					]
+				},
+				{
+					"version": "2",
+					"sbserie": [
+						{
+							"numb": "2.0",
+							"namecode": "Hamm",
+							"datesortie": "24/07/1998",
+							"datefin": "1998",
+							"nbpacket": "1500"
+						},
+						{
+							"numb": "2.1",
+							"namecode": "Slink",
+							"datesortie": "9/03/1999",
+							"datefin": "12/2000",
+							"nbpacket": "2250"
+						},
+						{
+							"numb": "2.2",
+							"namecode": "Potato",
+							"datesortie": "15/08/200",
+							"datefin": "04/2003",
+							"nbpacket": "3900"
+						}
+					]
+				},
+				{
+					"version": "3",
+					"sbserie": [
+						{
+							"numb": "3.0",
+							"namecode": "Woody",
+							"datesortie": "19/07/2002",
+							"datefin": "08/2006",
+							"nbpacket": "8500"
+						},
+						{
+							"numb": "3.1",
+							"namecode": "Sarge",
+							"datesortie": "6/05/2005",
+							"datefin": "04/2008",
+							"nbpacket": "15400"
+						}
+					]
+				},
+				{
+					"version": "4",
+					"sbserie": {
+						"numb": "4.0",
+						"namecode": "Etch",
+						"datesortie": "8/04/2007",
+						"datefin": "15/02/2010",
+						"nbpacket": "18000"
+					}
+				},
+				{
+					"version": "5",
+					"sbserie": {
+						"numb": "5.0",
+						"namecode": "Lenny",
+						"datesortie": "14/02/2009",
+						"datefin": "6/02/2012",
+						"nbpacket": "23000"
+					}
+				},
+				{
+					"version": "6",
+					"sbserie": {
+						"numb": "6.0",
+						"namecode": "Squeeze",
+						"datesortie": "06/02/2011",
+						"datefin": "31/05/2014",
+						"nbpacket": "29000"
+					}
+				},
+				{
+					"version": "7",
+					"sbserie": {
+						"numb": "7.0",
+						"namecode": "Wheezy",
+						"datesortie": "04/05/2013",
+						"nbpacket": "36000"
+					}
+				}
+			]
+		}
+	}
+}
