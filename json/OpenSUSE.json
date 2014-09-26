@@ -1,0 +1,98 @@
+{
+	"linux": {
+		"opensuse": {
+			"branche": [
+				{
+					"version": "10",
+					"sbserie": [
+						{
+							"numb": "10.2",
+							"datesortie": "7/12/2006",
+							"datefin": "30/11/2008",
+							"nbpacket": "2844"
+						},
+						{
+							"numb": "10.3",
+							"datesortie": "4/10/2007",
+							"datefin": "31/10/2009",
+							"nbpacket": "3505"
+						}
+					]
+				},
+				{
+					"version": "11",
+					"sbserie": [
+						{
+							"numb": "11.0",
+							"datesortie": "19/06/2008",
+							"datefin": "26/06/2010",
+							"nbpacket": "3309"
+						},
+						{
+							"numb": "11.1",
+							"datesortie": "18/12/2008",
+							"datefin": "14/01/2011",
+							"nbpacket": "3353"
+						},
+						{
+							"numb": "11.2",
+							"datesortie": "12/11/2009",
+							"datefin": "12/05/2011",
+							"nbpacket": "3477"
+						},
+						{
+							"numb": "11.3",
+							"datesortie": "15/07/2010",
+							"datefin": "16/01/2012",
+							"nbpacket": "3679"
+						},
+						{
+							"numb": "11.4",
+							"datesortie": "10/03/2011",
+							"datefin": "5/11/2012",
+							"nbpacket": "3894"
+						}
+					]
+				},
+				{
+					"version": "12",
+					"sbserie": [
+						{
+							"numb": "12.1",
+							"datesortie": "16/11/2011",
+							"datefin": "15/05/2013",
+							"nbpacket": "4289"
+						},
+						{
+							"numb": "12.2",
+							"datesortie": "5/09/2012",
+							"datefin": "15/01/2014",
+							"nbpacket": "4845"
+						},
+						{
+							"numb": "12.3",
+							"datesortie": "13/03/2013",
+							"datefin": "1/01/2015",
+							"nbpacket": "4946"
+						}
+					]
+				},
+				{
+					"version": "13",
+					"sbserie": [
+						{
+							"numb": "13.1",
+							"datesortie": "19/11/2013",
+							"datefin": "01/05/2015",
+							"nbpacket": "5001"
+						},
+						{
+							"numb": "13.2",
+							"datesortie": "1/11/2014"
+						}
+					]
+				}
+			]
+		}
+	}
+}
