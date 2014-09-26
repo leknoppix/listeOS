@@ -1,0 +1,67 @@
+{
+	"linux": {
+		"centos": {
+			"branche": [
+				{
+					"version": "2",
+					"sbserie": [
+						{
+							"numb": "2.1 AS",
+							"datesortie": "26/03/2002",
+							"datefin": "31/05/2009"
+						},
+						{
+							"numb": "2.1 ES",
+							"datesortie": "1/05/2003",
+							"datefin": "31/05/2009"
+						}
+					]
+				},
+				{
+					"version": "3",
+					"sbserie": {
+						"numb": "3",
+						"datesortie": "19/03/2004",
+						"datefin": "31/10/2010",
+						"nbpacket": "1170"
+					}
+				},
+				{
+					"version": "4",
+					"sbserie": {
+						"numb": "4",
+						"datesortie": "9/03/2005",
+						"datefin": "29/02/2012"
+					}
+				},
+				{
+					"version": "5",
+					"sbserie": {
+						"numb": "5",
+						"datesortie": "12/04/2007",
+						"datefin": "31/03/2017",
+						"nbpacket": "2790"
+					}
+				},
+				{
+					"version": "6",
+					"sbserie": {
+						"numb": "6",
+						"datesortie": "10/07/2011",
+						"datefin": "30/11/2020",
+						"nbpacket": "4910"
+					}
+				},
+				{
+					"version": "7",
+					"sbserie": {
+						"numb": "7",
+						"datesortie": "7/07/2014",
+						"datefin": "30/06/2024",
+						"nbpacket": "8465"
+					}
+				}
+			]
+		}
+	}
+}

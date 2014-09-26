@@ -1,0 +1,75 @@
+{
+	"linux": {
+		"rhel": {
+			"branche": [
+				{
+					"version": "2",
+					"sbserie": [
+						{
+							"numb": "2.1 AS",
+							"namecode": "Pensacola",
+							"datesortie": "26/03/2002",
+							"datefin": "31/05/2009"
+						},
+						{
+							"numb": "2.1 ES",
+							"namecode": "Panama",
+							"datesortie": "1/05/2003",
+							"datefin": "31/05/2009"
+						}
+					]
+				},
+				{
+					"version": "3",
+					"sbserie": {
+						"numb": "3",
+						"namecode": "Taroon",
+						"datesortie": "23/10/2003",
+						"datefin": "31/10/2010",
+						"nbpacket": "1136"
+					}
+				},
+				{
+					"version": "4",
+					"sbserie": {
+						"numb": "4",
+						"namecode": "Nahant",
+						"datesortie": "14/02/2005",
+						"datefin": "29/02/2012",
+						"nbpacket": "1584"
+					}
+				},
+				{
+					"version": "5",
+					"sbserie": {
+						"numb": "5",
+						"namecode": "Tikanga",
+						"datesortie": "15/03/2007",
+						"datefin": "31/03/2017",
+						"nbpacket": "3489"
+					}
+				},
+				{
+					"version": "6",
+					"sbserie": {
+						"numb": "6",
+						"namecode": "Santiago",
+						"datesortie": "10/11/2010",
+						"datefin": "30/11/2020",
+						"nbpacket": "3174"
+					}
+				},
+				{
+					"version": "7",
+					"sbserie": {
+						"numb": "7",
+						"namecode": "Maipo",
+						"datesortie": "10/06/2014",
+						"datefin": "30/06/2024",
+						"nbpacket": "4625"
+					}
+				}
+			]
+		}
+	}
+}

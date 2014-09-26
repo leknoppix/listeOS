@@ -24,7 +24,7 @@
 				<namecode>Taroon</namecode>
 				<datesortie>23/10/2003</datesortie>
 				<datefin>31/10/2010</datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>1136</nbpacket>
 			</sbserie>
 		</branche>
 		<branche>
@@ -34,7 +34,7 @@
 				<namecode>Nahant</namecode>
 				<datesortie>14/02/2005</datesortie>
 				<datefin>29/02/2012</datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>1584</nbpacket>
 			</sbserie>
 		</branche>
 		<branche>
@@ -44,7 +44,7 @@
 				<namecode>Tikanga</namecode>
 				<datesortie>15/03/2007</datesortie>
 				<datefin>31/03/2017</datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>3489</nbpacket>
 			</sbserie>
 		</branche>
 		<branche>
@@ -54,7 +54,7 @@
 				<namecode>Santiago</namecode>
 				<datesortie>10/11/2010</datesortie>
 				<datefin>30/11/2020</datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>3174</nbpacket>
 			</sbserie>
 		</branche>
 		<branche>
@@ -64,7 +64,7 @@
 				<namecode>Maipo</namecode>
 				<datesortie>10/06/2014</datesortie>
 				<datefin>30/06/2024</datefin>
-				<nbpacket></nbpacket>
+				<nbpacket>4625</nbpacket>
 			</sbserie>
 		</branche>
 	</rhel>

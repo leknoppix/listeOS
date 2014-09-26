@@ -1,0 +1,206 @@
+{
+	"linux": {
+		"fedora": {
+			"branche": [
+				{
+					"version": "1",
+					"sbserie": {
+						"numb": "1",
+						"namecode": "Yarrow",
+						"datesortie": "5/11/2003",
+						"datefin": "20/09/2004",
+						"nbpacket": "1466"
+					}
+				},
+				{
+					"version": "2",
+					"sbserie": {
+						"numb": "2",
+						"namecode": "Tettnang",
+						"datesortie": "18/05/2004",
+						"datefin": "11/04/2005",
+						"nbpacket": "1623"
+					}
+				},
+				{
+					"version": "3",
+					"sbserie": {
+						"numb": "3",
+						"namecode": "Heidelberg",
+						"datesortie": "8/11/2004",
+						"datefin": "16/01/2006",
+						"nbpacket": "1656"
+					}
+				},
+				{
+					"version": "4",
+					"sbserie": {
+						"numb": "4",
+						"namecode": "Stentz",
+						"datesortie": "13/06/2005",
+						"datefin": "7/08/2006",
+						"nbpacket": "1807"
+					}
+				},
+				{
+					"version": "5",
+					"sbserie": {
+						"numb": "5",
+						"namecode": "Bordeaux",
+						"datesortie": "20/03/2006",
+						"datefin": "2/07/2007",
+						"nbpacket": "2208"
+					}
+				},
+				{
+					"version": "6",
+					"sbserie": {
+						"numb": "6",
+						"namecode": "Zod",
+						"datesortie": "24/10/2006",
+						"datefin": "7/12/2007",
+						"nbpacket": "2243"
+					}
+				},
+				{
+					"version": "7",
+					"sbserie": {
+						"numb": "7",
+						"namecode": "Moonshine",
+						"datesortie": "31/05/2007",
+						"datefin": "13/06/2008",
+						"nbpacket": "1629"
+					}
+				},
+				{
+					"version": "8",
+					"sbserie": {
+						"numb": "8",
+						"namecode": "Werewolf",
+						"datesortie": "8/11/2007",
+						"datefin": "7/01/2009",
+						"nbpacket": "1983"
+					}
+				},
+				{
+					"version": "9",
+					"sbserie": {
+						"numb": "9",
+						"namecode": "Sulphur",
+						"datesortie": "13/05/2008",
+						"datefin": "10/07/2009",
+						"nbpacket": "2072"
+					}
+				},
+				{
+					"version": "10",
+					"sbserie": {
+						"numb": "10",
+						"namecode": "Cambridge",
+						"datesortie": "25/11/2008",
+						"datefin": "18/12/2009",
+						"nbpacket": "2221"
+					}
+				},
+				{
+					"version": "11",
+					"sbserie": {
+						"numb": "11",
+						"namecode": "Leonidas",
+						"datesortie": "9/06/2009",
+						"datefin": "25/06/2010",
+						"nbpacket": "2253"
+					}
+				},
+				{
+					"version": "12",
+					"sbserie": {
+						"numb": "12",
+						"namecode": "Constantine",
+						"datesortie": "17/11/2009",
+						"datefin": "2/12/2010",
+						"nbpacket": "2400"
+					}
+				},
+				{
+					"version": "13",
+					"sbserie": {
+						"numb": "13",
+						"namecode": "Goddard",
+						"datesortie": "25/05/2010",
+						"datefin": "4/06/2011",
+						"nbpacket": "2451"
+					}
+				},
+				{
+					"version": "14",
+					"sbserie": {
+						"numb": "14",
+						"namecode": "Laughlin",
+						"datesortie": "2/11/2010",
+						"datefin": "8/12/2011",
+						"nbpacket": "2769"
+					}
+				},
+				{
+					"version": "15",
+					"sbserie": {
+						"numb": "15",
+						"namecode": "Lovelock",
+						"datesortie": "24/05/2011",
+						"datefin": "26/06/2012",
+						"nbpacket": "2944"
+					}
+				},
+				{
+					"version": "16",
+					"sbserie": {
+						"numb": "16",
+						"namecode": "Verne",
+						"datesortie": "8/11/2011",
+						"datefin": "12/02/2013",
+						"nbpacket": "3118"
+					}
+				},
+				{
+					"version": "17",
+					"sbserie": {
+						"numb": "17",
+						"namecode": "Beefy Miracle",
+						"datesortie": "29/05/2012",
+						"datefin": "30/07/2013",
+						"nbpacket": "3357"
+					}
+				},
+				{
+					"version": "18",
+					"sbserie": {
+						"numb": "18",
+						"namecode": "Spherical Cow",
+						"datesortie": "15/01/2013",
+						"datefin": "14/01/2014",
+						"nbpacket": "4174"
+					}
+				},
+				{
+					"version": "19",
+					"sbserie": {
+						"numb": "19",
+						"namecode": "Schrödinger's Cat",
+						"datesortie": "2/07/2013",
+						"nbpacket": "3957"
+					}
+				},
+				{
+					"version": "20",
+					"sbserie": {
+						"numb": "20",
+						"namecode": "Heisenbug",
+						"datesortie": "17/12/2013",
+						"nbpacket": "4075"
+					}
+				}
+			]
+		}
+	}
+}
